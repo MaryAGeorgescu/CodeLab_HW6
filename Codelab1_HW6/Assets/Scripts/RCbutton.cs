@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 //Intent: put this on an object (with a collider) to make it clickable
 //Purpose:  shoot raycast based on mouse cursor to detect any collisions
-public class RCButton : MonoBehaviour
+public class RCbutton : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
